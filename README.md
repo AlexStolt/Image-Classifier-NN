@@ -12,5 +12,5 @@
 * NumPy Module Installed on Python3
 * SciPy Module Installed on Python3
 
-## How to Run
+## How to Execute
 **python3 neural_network.py**

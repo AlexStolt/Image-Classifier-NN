@@ -14,3 +14,5 @@
 
 ## How to Execute
 **python3 neural_network.py**
+
+### Part Of the same Code is Included on my other Project (Repository) "Machine-Learning" on the Neural Networks Segment

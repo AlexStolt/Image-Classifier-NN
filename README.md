@@ -1,4 +1,4 @@
-# Image-Classifier-NN
+# Image Classifier From Search Results Scratch
 ## This project is based on the Book "Make Your Own Neural Network" by Tariq Rashid
 ### This Repository Includes
 * The **Source Code of the Neural Network**
@@ -14,5 +14,3 @@
 
 ## How to Execute
 ```python3 neural_network.py```
-
-### Part Of the same Code is Included on my other Project (Repository) "Machine-Learning" on the Neural Networks Segment

@@ -1,4 +1,4 @@
-# Image Classifier From Search Results Scratch
+# Image Classifier With a Linear NN
 ## This project is based on the Book "Make Your Own Neural Network" by Tariq Rashid
 ### This Repository Includes
 * The **Source Code of the Neural Network**
